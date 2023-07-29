@@ -6,4 +6,4 @@ One ought to comprehend the OOPs concept in detail to execute this effectively. 
 2.The snake’s length grows as it eats food. When the snake crosses itself or strikes the perimeter of the box, 
 3.the game is marked over. 
 4.Food is always given at different positions
-![image](https://github.com/Surabhi0303/Sync_Intern_Snake_Game/assets/100028880/ed5d3b05-41f7-4415-926a-02cf83871600)
+
